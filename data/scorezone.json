@@ -1,0 +1,131 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "sport": "Cricket",
+      "status": "Live",
+      "a": "India",
+      "b": "Australia",
+      "fa": "🇮🇳",
+      "fb": "🇦🇺",
+      "sa": "187/4",
+      "sb": "162/6",
+      "detail": "30.2 overs · World Cup",
+      "venue": "Ahmedabad",
+      "saved": true
+    },
+    {
+      "id": 2,
+      "sport": "Football",
+      "status": "Live",
+      "a": "Man City",
+      "b": "Arsenal",
+      "fa": "🔵",
+      "fb": "🔴",
+      "sa": "2",
+      "sb": "1",
+      "detail": "67' · Premier League",
+      "venue": "Manchester",
+      "saved": true
+    },
+    {
+      "id": 3,
+      "sport": "Tennis",
+      "status": "Live",
+      "a": "Sinner",
+      "b": "Alcaraz",
+      "fa": "🎾",
+      "fb": "🎾",
+      "sa": "6  4",
+      "sb": "4  3",
+      "detail": "Set 2 · Semi-final",
+      "venue": "Centre Court",
+      "saved": true
+    },
+    {
+      "id": 4,
+      "sport": "Basketball",
+      "status": "Live",
+      "a": "Lakers",
+      "b": "Warriors",
+      "fa": "🟣",
+      "fb": "🟡",
+      "sa": "89",
+      "sb": "92",
+      "detail": "Q4 · NBA",
+      "venue": "Los Angeles",
+      "saved": false
+    },
+    {
+      "id": 5,
+      "sport": "Cricket",
+      "status": "Upcoming",
+      "a": "England",
+      "b": "Pakistan",
+      "fa": "🏴",
+      "fb": "🇵🇰",
+      "sa": "—",
+      "sb": "—",
+      "detail": "Today · 19:30",
+      "venue": "Lahore",
+      "saved": false
+    },
+    {
+      "id": 6,
+      "sport": "Football",
+      "status": "Upcoming",
+      "a": "Barcelona",
+      "b": "Real Madrid",
+      "fa": "🔴",
+      "fb": "⚪",
+      "sa": "—",
+      "sb": "—",
+      "detail": "Tomorrow · 20:00",
+      "venue": "Barcelona",
+      "saved": false
+    }
+  ],
+  "settings": {
+    "startAlerts": false,
+    "scoreAlerts": true,
+    "eventAlerts": true
+  },
+  "events": [
+    {
+      "id": 1791798208548,
+      "icon": "🏏",
+      "title": "Score updated · India",
+      "detail": "India vs Australia · 187/4 · 30.2 overs · World Cup",
+      "createdAt": "2026-10-12T09:43:28.548Z"
+    },
+    {
+      "id": 1791797897909,
+      "icon": "🏏",
+      "title": "Score updated · India",
+      "detail": "India vs Australia · 186/4 · 30.2 overs · World Cup",
+      "createdAt": "2026-10-12T09:38:17.909Z"
+    },
+    {
+      "id": 1,
+      "icon": "🏏",
+      "title": "Wicket! Australia take a breakthrough",
+      "detail": "India vs Australia · caught at deep mid-wicket",
+      "createdAt": "2026-10-12T09:35:02.706Z"
+    },
+    {
+      "id": 2,
+      "icon": "⚽",
+      "title": "GOAL! Manchester City",
+      "detail": "Man City vs Arsenal · 67th minute",
+      "createdAt": "2026-10-12T09:32:02.707Z"
+    },
+    {
+      "id": 3,
+      "icon": "🎾",
+      "title": "Set point converted",
+      "detail": "Sinner vs Alcaraz · second set",
+      "createdAt": "2026-10-12T09:29:02.707Z"
+    }
+  ],
+  "updateCount": 30
+}
